@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - [Docker Home Lab](https://github.com/ken-pennell/label)
-- [Active Directory Home Lab](https://github.com/ken-pennell/label)
+- [Active Directory Home Lab](https://github.com/ken-pennell/ActiveDirectoryLab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
