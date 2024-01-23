@@ -7,7 +7,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial][Active Directory Home Lab)(https://youtube.com)
+- [Tutorial][Active Directory Home Lab](https://youtube.com)
 
 <h2>:page_with_curl: Certificates</h2>
 
